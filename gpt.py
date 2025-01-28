@@ -1,7 +1,7 @@
 ##pip install google-generativeai
 
 import streamlit as st
-import google.generativeai as genai
+# import google.generativeai as genai
 from datetime import datetime, timedelta
 
 # Configure the API key for Google Generative AI
