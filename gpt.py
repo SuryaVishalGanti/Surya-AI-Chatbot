@@ -3,7 +3,7 @@ import google.generativeai as genai
 from datetime import datetime, timedelta
 
 # Configure the API key for Google Generative AI
-surya_api_key = "AIzaSyCu2susiqMRwXoSPdgreHNMcemLXMOFY4M"  # Your API key
+surya_api_key = "Please enter your API key"  # Your API key
 genai.configure(api_key=surya_api_key)
 
 # Initialize the generative model for Google AI
